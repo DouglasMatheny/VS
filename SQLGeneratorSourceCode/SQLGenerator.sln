@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLGenerator", "SQLGenerator\SQLGenerator.csproj", "{1BE317F2-6060-43A6-B662-A378F518C374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLUserControl", "SQLUserControl\SQLUserControl.csproj", "{E541F47C-57A5-4492-A46E-5C7CE75F2C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE317F2-6060-43A6-B662-A378F518C374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE317F2-6060-43A6-B662-A378F518C374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE317F2-6060-43A6-B662-A378F518C374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE317F2-6060-43A6-B662-A378F518C374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E541F47C-57A5-4492-A46E-5C7CE75F2C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E541F47C-57A5-4492-A46E-5C7CE75F2C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E541F47C-57A5-4492-A46E-5C7CE75F2C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E541F47C-57A5-4492-A46E-5C7CE75F2C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

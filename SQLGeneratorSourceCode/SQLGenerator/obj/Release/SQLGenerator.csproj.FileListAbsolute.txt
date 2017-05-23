@@ -1,0 +1,11 @@
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\bin\Release\SQLGenerator.exe.config
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\bin\Release\SQLGenerator.exe
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\bin\Release\SQLGenerator.pdb
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\bin\Release\SQLUserControl.dll
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\bin\Release\SQLUserControl.pdb
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\obj\Release\SQLGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\obj\Release\SQLGenerator.Form1.resources
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\obj\Release\SQLGenerator.Properties.Resources.resources
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\obj\Release\SQLGenerator.csproj.GenerateResource.Cache
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\obj\Release\SQLGenerator.exe
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLGenerator\obj\Release\SQLGenerator.pdb

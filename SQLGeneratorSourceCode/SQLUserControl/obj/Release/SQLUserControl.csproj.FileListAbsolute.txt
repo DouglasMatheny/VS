@@ -1,0 +1,6 @@
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLUserControl\bin\Release\SQLUserControl.dll
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLUserControl\bin\Release\SQLUserControl.pdb
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLUserControl\obj\Release\SQLUserControl.fieldControl.resources
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLUserControl\obj\Release\SQLUserControl.csproj.GenerateResource.Cache
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLUserControl\obj\Release\SQLUserControl.dll
+C:\Users\Doug\Downloads\SQLGeneratorSourceCode\SQLGeneratorSourceCode\SQLUserControl\obj\Release\SQLUserControl.pdb
